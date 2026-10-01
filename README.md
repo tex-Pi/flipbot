@@ -1,4 +1,4 @@
-The # flipbot
+# The flipbot
 <h2>Descripton</h2>
 It is a 1 lb of less battle bot. It will be run by 2 microbits controlling servos and motors using a wukong breakout board. It is currently using a flipper design that will use gear ratios to get more torque that will lifft a solid arm flipper.
 <h3>Below is the link for CAD</h3>
