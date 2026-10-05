@@ -1,4 +1,7 @@
 # The flipbot
+<h1>Hello Hackclub Halflife admins my problem is in logs for you to ready I will also have a screen shot after this to show the time on my comp. Thankyou</h1>
+<img width="87" height="31" alt="image" src="https://github.com/user-attachments/assets/dd4af189-c4a6-4c4d-bb12-f4fd8e06a456" />
+
 <h2>Descripton</h2>
 It is a 1 lb of less battle bot. It will be run by 2 microbits controlling servos and motors using a wukong breakout board. It is currently using a flipper design that will use gear ratios to get more torque that will lifft a solid arm flipper.
 <h3>Pictures of Design so far</h3>
