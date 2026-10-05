@@ -4,3 +4,19 @@ Have added designed out servos for movement
 Coded what to do on each signal received in javascipt on makecode
 Started on designing wukong board
 Added wheel Mechanism that fits with servo
+The following is my final 6hr log entry that wouldnt allow me to sumbit it it is 11/19 on 10/4 for me, but it says this week is over. I jus finished the compiling of my design. Help?
+Hey guys! Its pretty late for me and I just finished the hours I needed for this project. Right now it should fully work but I have not gone through a full testing phase yet. If you want to see how this project ends up you can watch my github page for updates. I hope by the end of the month I will have a final design ready. Most of this time is time I spent on my home computer working on the CAD and code for this project. Pretty much the code now accepts radio inputs froma controller that comes with a microbit arcade kit. Depending on which number it recieves it will do a diffent output on the machine. I have also designed herring bone gears for my mahcine, this will help it not slip even while beng made out of 3d printed parts. I have also finished my flipper design which uses a 1:3 gear ratio to up the torque. It also sticks out 2.5 inches so that it can fully get under other robots. This design also has holes that are ready for use with 1/4 inch screws and spots that are cadded with servos. Also in the final design that will be released later it will be fully ready to print.
+
+![finallog7](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/J4yrhfG9v4XUpTwq3kasY23qW4iXia1w/42360aefe00c509c19b13d272a8a47ebeae269d58104ef9352b0185758032fbb.png)
+
+![finallog6](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/J4yrhfG9v4XUpTwq3kasY23qW4iXia1w/776216eff64ab1154b3fc327c54c35a79a8988a82b578c9823a2f2925d77c787.png)
+
+![finallog5](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/J4yrhfG9v4XUpTwq3kasY23qW4iXia1w/4f2613051f237561206f340b26c09ded1f5c482d27b05a97bfc9a616cedd9855.png)
+
+![finallog4](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/J4yrhfG9v4XUpTwq3kasY23qW4iXia1w/ce69a7b2c887621d5f4c3f615590d82af9eecce1811cbe66bb531a703c4ed7d1.png)
+
+![finallog3](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/J4yrhfG9v4XUpTwq3kasY23qW4iXia1w/73a87ab36165517f548f9cb003f0a2e60adb665895ac654b2d142cd0974f9d6f.png)
+
+![finallog2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/J4yrhfG9v4XUpTwq3kasY23qW4iXia1w/828fd5e92613b2b71cce834e851f8bdcef970ed153e969147ed70abadf26ce2b.png)
+
+![finallog1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/J4yrhfG9v4XUpTwq3kasY23qW4iXia1w/5d11e1b9da44aec0a55960b5a6e95930fc044f9e6ad1466cad9c0a1f0412b44a.png)
